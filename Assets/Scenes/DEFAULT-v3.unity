@@ -1947,5 +1947,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 632016625510712569, guid: ce898fdcb7684734b8b25310bcb1600e,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"lifePoints","value":{"$content":10,"$type":"System.Int32"},"$version":"A"},{"name":"damage","value":{"$content":5,"$type":"System.Int32"},"$version":"A"},{"name":"attackAreaEnemy","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"attackCooldown","value":{"$content":2.0,"$type":"System.Single"},"$version":"A"},{"name":"canAttack","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"canAttackAnimation","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"attackAnimationDuration","value":{"$content":1,"$type":"System.Int32"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 819240608221130610, guid: ce898fdcb7684734b8b25310bcb1600e,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce898fdcb7684734b8b25310bcb1600e, type: 3}
